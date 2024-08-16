@@ -1,0 +1,24 @@
+:root{
+    --branco: white;
+    --cordefundo:#00162E;
+    --fundosenha:#00244D;
+    --fundoDetexto:#001E40;
+    --borda:#0075ff;
+    --New: "New Amsterdam", sans-serif;
+    --OpenSans: "Open Sans", sans-serif;
+}
+  
+
+
+body{
+     color:var(--branco);
+     background-color:var(--corDeFundo);
+}
+
+.titulo-principal{
+   font-family: var(--New);
+}
+
+.titulo-secundario{
+    font-family: var(--OpenSans)
+}
